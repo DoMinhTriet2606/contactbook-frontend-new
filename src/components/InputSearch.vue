@@ -11,7 +11,7 @@
 
         <div class="input-group-append">
             <button class="btn btn-outline-secondary" type="button" @click="submit">
-                <i class="fas fa-magnifying-glass"></i> Tìm kiếm
+                <i class="fa-brands fa-searchengin"></i> Tìm kiếm
             </button>
         </div>
     </div>

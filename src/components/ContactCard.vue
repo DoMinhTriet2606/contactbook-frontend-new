@@ -18,8 +18,8 @@
         </div>
         <div class="p-1">
             <strong>Liên hệ yêu thích:&nbsp;</strong>
-            <i v-if="contact.favorite" class="fas fa-check"></i>
-            <i v-else class="fas fa-times"></i>
+            <i v-if="contact.favorite" class="fa-solid fa-heart"></i>
+            <i v-else class="fa-regular fa-circle-xmark"></i>
         </div>
     </div>
 </template>
